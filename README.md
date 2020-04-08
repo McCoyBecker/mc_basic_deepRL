@@ -1,4 +1,4 @@
 The PDFs in this dir have been generated with:
 ```
-pandoc <file_name>.md -o <file_name>.pdf -V geomtry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"
+pandoc <file_name>.md -o <file_name>.pdf -V geometry:"top=1cm, bottom=1cm, left=1cm, right=1cm"
 ```
